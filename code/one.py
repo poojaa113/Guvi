@@ -1,7 +1,7 @@
-x=input("Enter the input:")
+x=3
 if(x>0):
-  print("POSITIVE")
+  print("Positive")
 elif(x<0):
-  print("NEGATIVE")
+  print("Negative")
 else:
-  print("ZERO")
+  print("Zero")
